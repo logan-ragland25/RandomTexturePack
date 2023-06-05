@@ -1,0 +1,15 @@
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\obj\Debug\net7.0\RandomTexturePack.csproj.AssemblyReference.cache
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\obj\Debug\net7.0\RandomTexturePack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\obj\Debug\net7.0\RandomTexturePack.AssemblyInfoInputs.cache
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\obj\Debug\net7.0\RandomTexturePack.AssemblyInfo.cs
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\obj\Debug\net7.0\RandomTexturePack.csproj.CoreCompileInputs.cache
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\bin\Debug\net7.0\RandomTexturePack.exe
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\bin\Debug\net7.0\RandomTexturePack.deps.json
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\bin\Debug\net7.0\RandomTexturePack.runtimeconfig.json
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\bin\Debug\net7.0\RandomTexturePack.dll
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\bin\Debug\net7.0\RandomTexturePack.pdb
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\obj\Debug\net7.0\RandomTexturePack.dll
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\obj\Debug\net7.0\refint\RandomTexturePack.dll
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\obj\Debug\net7.0\RandomTexturePack.pdb
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\obj\Debug\net7.0\RandomTexturePack.genruntimeconfig.cache
+C:\Minecraft\TexturePacks\RandomTextures\RandomTexturePack\obj\Debug\net7.0\ref\RandomTexturePack.dll
