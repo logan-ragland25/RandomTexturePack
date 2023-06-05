@@ -1,1 +1,11 @@
 hit run for a random texture pack
+to start write in terminal: 
+    dotnet --version
+    dotnet new console
+    dotnet run
+
+note: 
+    You may need a new block folder for every iteration
+    It may break but most objects are randomized
+    Only blocks are changed
+    You will have to change file paths
