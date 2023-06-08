@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v5yC7U/Az2olwDPyu5KOEprIoe7W5pE0cZDkXqdjYDkN3NXDlKNuUeK7mliAiV3ZG5TSvQprQqqOPUW6nXicCw==",
+  "dgSpecHash": "YBJXM05iWs1oqVEU9l+AmmNx/2TMVgJSlX/aBtAtZZIfKTtEkOJKoO9242siXI5XUNmosvXADtLIIijxNqwn6Q==",
   "success": true,
-  "projectFilePath": "C:\\Minecraft\\TexturePacks\\RandomTextures\\RandomTexturePack\\RandomTexturePack.csproj",
+  "projectFilePath": "C:\\Minecraft\\TexturePacks\\RandomTextures\\Project\\RandomTexturePack\\RandomTexturePack.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
