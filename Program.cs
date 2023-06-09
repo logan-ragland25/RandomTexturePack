@@ -11,7 +11,7 @@ class Program
             Console.WriteLine("*********************************************************");
             /************************************************/
             //Initialize and Declare Variables
-            string docPath = @"C:\Minecraft\TexturePacks\RandomTextures\block";
+            string docPath = @"C:\Minecraft\TexturePacks\RandomTextures\assets\minecraft\textures\block";
             List<string> dirs = new List<string>(Directory.EnumerateFiles(docPath));
             int randomIndex;
             Random rnd = new Random();
