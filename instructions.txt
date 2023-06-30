@@ -5,8 +5,8 @@ to start write in terminal:
     dotnet run
 
 note: 
-    You may need a new block folder for every iteration
-    It may break but most objects are randomized
-    Only blocks are changed
-    You will have to change file paths
-    It is reccommended you delete the pot decorations and banner folders under the entity folder
+    You will need a texture folder, icon, and mcmeta (description) in a zipped folder, then drag it into th eminecraft texture packs folder
+    The blank pack and icon are found in the minecraft files, the mcmeta will need to be downloaded from the web
+    EVERYTHING is randomized unless you comment it out
+    You will have to change file paths for it to work
+    It is recommended you delete the pot decorations and banner folders under the entity folder, or else it may break and make a lot of boring textures
