@@ -9,3 +9,4 @@ note:
     It may break but most objects are randomized
     Only blocks are changed
     You will have to change file paths
+    It is reccommended you delete the pot decorations and banner folders under the entity folder
